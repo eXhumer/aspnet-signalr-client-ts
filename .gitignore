@@ -1,3 +1,6 @@
 node_modules
 dist
 *.log*
+coverage/
+test-report.junit.xml
+.DS_Store
